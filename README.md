@@ -5,6 +5,6 @@
 
 # SOFTWARE ENGINEER | NETWORK ENGINEER | 📍 NAIROBI, KENYA
 
-* Believe in the growth mindset and Atomic habits
+* Believe in the growth mindset and Atomic Habits
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amwekesa)
